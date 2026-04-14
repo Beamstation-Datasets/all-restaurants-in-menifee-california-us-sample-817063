@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Menifee, California with a population of over 102k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Menifee, California, US",
+  "export_job_id": "eb88ffae-f978-40bf-aa9c-15ed71bb9bbf",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 817063,
+  "location_name": "Menifee",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-menifee-california-us-sample-817063",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/817063/beamstation_817063_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.09,
+  "sample_records": 9,
+  "sample_sha256": "e80d73046a8f5774d1190447375136eca5a040c4ec9d1579ab1952f883fec399",
+  "sample_size_bytes": 50205,
+  "total_records": 99,
+  "updated_at": "2026-04-09T11:35:45.499080+00:00"
+}
