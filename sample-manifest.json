@@ -1,12 +1,12 @@
 {
-  "export_job_id": "eb88ffae-f978-40bf-aa9c-15ed71bb9bbf",
+  "export_job_id": "08e5be89-7717-4663-9b43-d9e4153caeb5",
   "id_short": 817063,
-  "published_at": "2026-04-14T19:55:01Z",
+  "published_at": "2026-04-19T19:13:17Z",
   "repo_name": "all-restaurants-in-menifee-california-us-sample-817063",
   "sample_asset_name": "beamstation_817063_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/817063/beamstation_817063_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 9,
-  "sample_sha256": "e80d73046a8f5774d1190447375136eca5a040c4ec9d1579ab1952f883fec399",
-  "sample_size_bytes": 50205,
-  "total_records": 99
+  "sample_sha256": "ae7f973d54602b9162839e020d21c7f67d585f564297020924c91cf34d847228",
+  "sample_size_bytes": 51098,
+  "total_records": 94
 }
